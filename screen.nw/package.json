@@ -1,0 +1,20 @@
+{
+  "name": "nw-screensaver",
+  "main": "index.html",
+  "window": {
+    "title": "Screensaver",
+    "kiosk": true,
+    "always-on-top": true,
+    "show_in_taskbar": false
+  },
+  "maintainers":[ {
+    "name": "Marco Krage",
+    "email": "marco@my-azur.de",
+    "web": "http://my-azur.de"
+  }],
+  "licenses": [
+   {
+       "type": "MIT",
+       "url": "http://marco.mit-license.org"
+   }]
+}
