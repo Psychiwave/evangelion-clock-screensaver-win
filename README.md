@@ -10,11 +10,12 @@
  	4. click `Settings `on the Screen Saver Settings page.
    	5. import the command to run: `\YOUR-PATH\eva-screensaver\nwjs\nw.exe screen.nw` then apply
 
-##### Styles
+#### Styles
 
 double click the `screen.nw` folder. Then rename the HTML you want (normal/normal_3d/red/red_3d) to use to index.html.
 
-#Wallpaper Engine
+### Wallpaper Engine
+
 If you have Wallpaper Engine you can also subscribe this [sharedfiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2255557200) or create from the folder `screen.nw` yourself.
 
 ## Credits
