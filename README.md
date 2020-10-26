@@ -4,11 +4,15 @@
 
 ## Installation
 
-	1. Download the [latest version](https://github.com/Psychiwave/evangelion-clock-screensaver-win/releases/tag/v0.0.1) of the screensaver from the releases page.
- 	2. Extract the ZIP file by double-clicking on it.
- 	3. Right click the `eva-screensaver.scr` and click `install`
- 	4. click `Settings `on the Screen Saver Settings page.
-   	5. import the command to run: `\YOUR-PATH\eva-screensaver\nwjs\nw.exe screen.nw` then apply
+ 1. Download the [latest version](https://github.com/Psychiwave/evangelion-clock-screensaver-win/releases/tag/v0.0.1) of the screensaver from the releases page.
+	
+ 2. Extract the ZIP file by double-clicking on it.
+	
+ 3. Right click the `eva-screensaver.scr` and click `install`
+	
+ 4. click `Settings `on the Screen Saver Settings page.
+	
+ 5. import the command to run: `\YOUR-PATH\eva-screensaver\nwjs\nw.exe screen.nw` then apply
 
 #### Styles
 
