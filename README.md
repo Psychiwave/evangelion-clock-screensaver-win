@@ -18,7 +18,9 @@
 
 double click the `screen.nw` folder. Then rename the HTML you want (normal/normal_3d/red/red_3d) to use to index.html.
 
-### Wallpaper Engine
+### Desktop Background
+
+####Wallpaper Engine
 
 If you have Wallpaper Engine you can also subscribe this [sharedfiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2255557200) or create from the folder `screen.nw` yourself.
 
@@ -27,8 +29,6 @@ If you have Wallpaper Engine you can also subscribe this [sharedfiles](https://s
 This screensaver fork from the repo：https://github.com/Wandmalfarbe/evangelion-clock-screensaver
 
 and from the issue：https://github.com/Wandmalfarbe/evangelion-clock-screensaver/issues/13
-
-
 
 ## License
 
